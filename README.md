@@ -1,8 +1,12 @@
-### Hi there 👋
 
 <!--
 **VoodooDarkMagic/VoodooDarkMagic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align = "center">Hi!! I am Karan Pillai</h1>
+<h3 aligh="center">An Aspiring Web Developer looking to contribute in Open Source Projects</h3>
+<p>I'm currently a College student interested in Web Development and Machine Learning.</p>
+<p>I am currently learning Web Dev from The Odin Project</p>
 
+<p src="https://github-readme-stats.vercel.app/api?username=VoodooDarkMagic)](https://github.com/VoodooDarkMagic/github-readme-stats)"</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
