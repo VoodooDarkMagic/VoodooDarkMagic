@@ -7,6 +7,7 @@
 <p>I am currently learning Web Dev from The Odin Project</p>
 
 <p src="https://github-readme-stats.vercel.app/api?username=VoodooDarkMagic)](https://github.com/VoodooDarkMagic/github-readme-stats)"</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VoodooDarkMagic&show_icons=true&locale=en" alt="Karan Pillai" /></p>
 
 <!--
 - 🔭 I’m currently working on ...
