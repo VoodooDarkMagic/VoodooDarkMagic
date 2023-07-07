@@ -7,7 +7,6 @@
 <p align = "center">I am currently learning Web Dev from The Odin Project</p>
 
 <img align = "center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VoodooDarkMagic&theme=dracula">
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=VoodooDarkMagic&show_icons=true&locale=en&theme=dracula" alt="Karan Pillai">
 
 <!--
